@@ -8,9 +8,7 @@ I'm a full-stack developer who loves building fast, lightweight, and efficient w
 
 - **Frontend:** React, Svelte, TypeScript, JavaScript, HTML, CSS, SCSS
 - **Backend:** Node.js, Express, Hono
-- **Database:** MongoDB, Firebase (optional)
-- **Tools & OS:** Git, Linux (Hyprland), Vite, VS Code
-- **Other:** REST APIs, PWAs, Clean Architecture, Terminal Tools
+- **Database:** MongoDB
 
 ---
 
