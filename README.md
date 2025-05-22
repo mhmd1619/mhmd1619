@@ -18,8 +18,8 @@ I'm a full-stack developer who loves building fast, lightweight, and efficient w
 
 <div align="center">
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmd1619&show_icons=true&theme=radical&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd1619&layout=compact&theme=radical&langs_count=10)
+
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmd1619&show_icons=true&theme=radical&count_private=true)
 
 </div>
